@@ -5,7 +5,7 @@
 ## - Set value of matrix
 ## - Get value of matrix
 ## - Set inverse of matrix
-## - Get inversive of matrix
+## - Get inverse of matrix
 
 ## Thus, set, get, setmatrix, getmatrix
 makeCacheMatrix <- function(x = matrix()) {
